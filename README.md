@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-When an antigen enters the human body, the body responds with white blood cells. In the case of allergies, there is an immediate response of basophils and in the case of inflammation, there is an immediate response of neutrophils. Using a convolutional neural network, a model was constructed to help identify the type of blood cell from a certain microscopic image of the cell. This model would aid research, students, and even doctors when looking for infections, allergies, or inflammations.
+When an antigen enters the human body, the body responds with white blood cells. In the case of allergies, there is an immediate response of basophils however, in the case of an inflammation, there is an immediate response of neutrophils. Using a convolutional neural network, a model was constructed to help identify the type of blood cell from a certain microscopic image of the cell. This model would aid research, students, and even doctors when looking for infections, allergies, or inflammations.
 
 ## Executive summary
 
